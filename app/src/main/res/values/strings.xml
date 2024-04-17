@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">projektiapp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="loading_location">Loading</string>
+    <string name="loading_temperature">Loading</string>
+</resources>
